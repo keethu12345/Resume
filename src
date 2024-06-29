@@ -1,1 +1,190 @@
 
+\section{Achievements}
+ \begin{itemize}[leftmargin=0.15in, label={}] 
+    \small{\item{  
+    \textbf{.} Awarded Topper badges in Python, English 1, and English 
+      2 at the foundational level in the BS program at IIT Madras.\\
+    \textbf{.} Secured Rank 1 in the CSE-BDA department in B.Tech at 
+      SRM Institute of Science and Technology for three consecutive semesters.\\
+   \textbf{ .} Achieved proficiency in Abacus, completing all necessary 
+      levels.\\
+   \textbf{ .} Awarded 1st and 2nd ranks in English and Mathematics by 
+      the National Science Olympiad (NSO).\\
+    \textbf{.} Earned Hindi Proficiency certification from the Dakshin 
+      Bharat Hindi Prachar Sabha (DBHPS/India), having completed all required courses.\\
+    \textbf{.} Attained beginner-level proficiency in Sanskrit, awarded 
+      by Samskrita Bharati (India).\\
+    \textbf{.} Possess 7+ years of experience in Classical Dance 
+      (Bharatnatyam) and Carnatic Music, demonstrating significant artistic skills.\\
+    }}
+\end{itemize} 
+\section{Areas Of Interest}
+\begin{itemize}
+    \item Research interests in Data Sciences, Data Analytics, Data processing, Artificial Intelligence, Machine Learning, Computer Networks, Intent based networking,and Natural Language processing
+    \item Personal interests include teaching methodologies and educational technologies and Fashion Designing.
+   
+\end{itemize}
+\section{Certifications}
+\begin{itemize}
+    \item \textbf{Python for Data Science} \\
+     Completed comprehensive Python course covering Spyder IDE,  NumPy, Pandas dataframe operations, data visualization and case studies in regression and classification.\\
+     \textbf{Issued by:} NPTEL \\
+     \textbf{Dated:} September 2023
+    
+    \item \textbf{Google Data Analytics professional Certification} \\
+    Consists an 8 course series, focused on R programming, Data exploration and Visualization, completed one of eight courses \\
+    \textbf{Issued by: }Google \\
+    \textbf{Dated:} January 2024
+
+    \item \textbf{Database Management systems} \\
+    Completed comprehensive course on RDBMS covering SQL, relational algebra, database design, query optimization, transactions, and recovery systems. \\
+   \textbf{ Issued by:} NPTEL \\
+    \textbf{Dated:} March 2024
+
+    \item \textbf{Foundational level - BS in Data Science} \\
+    Completed the foundational level consisting of courses like Programming in Python, Probability and Statistics, Linear Algebra and English.
+    Currently pursuing Diploma in Data Sciences.\\
+    \textbf{Issued by:} Indian Institute of Technology Madras \\
+    \textbf{Dated:} May 2024
+    
+    % Add more certifications as needed
+\end{itemize}
+%-----------EDUCATION-----------%
+\section{Education}
+    \resumeSubHeadingListStart
+
+    \resumeSubheading
+    {Indian Institute of Technology Madras}{Expected May 2027}
+    {Bachelor of Science in Data Sciences and Applications (CGPA: 7.38 / 10.00)}{Chennai}
+    \resumeItemListStart
+        \resumeItem{\textbf{Relevant Coursework:}  Intro to Computational Thinking, Prob \& Stat, Programming in Python , Machine Learning Foundations, Tools in Data Science}
+    \resumeItemListEnd
+    \resumeSubHeadingListEnd
+    \resumeSubHeadingListStart
+
+    \resumeSubheading
+    {SRM Institute Of Science and Technology}{Expected July 2026}
+    {Bachelor of Technology in Computer Science with Big Data Analytics (CGPA: 9.96 / 10.00)}{Chennai}
+    \resumeItemListStart
+        \resumeItem{\textbf{Relevant Coursework:}  Data Structures and Algorithms (C), Prob \& Stat, Design and Analysis of Algorithms(C), Operating Systems(C++), Linear Algebra w/Computational Applications, DBMS, Object Oriented Programming(Java \& C)}
+    \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+    \resumeSubHeadingListStart
+
+    \resumeSubheading
+    {Kendriya Vidyalaya IITM}{May 2022}
+    {Class 12 (Percentage: 86\%)}{Chennai}
+    \resumeItemListStart
+        \resumeItem{\textbf{Relevant Coursework:} Computer Science, Maths, Physics, Chemistry}
+    \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+    \resumeSubHeadingListStart
+
+    \resumeSubheading
+    {Kendriya Vidyalaya IITM}{May 2020}
+    {Class 12 (Percentage: 93.8\%)}{Chennai}
+    \resumeItemListStart
+        \resumeItem{\textbf{Relevant Coursework:} Standard Maths, Social Studies, Science}
+    \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+%-----------EXPERIENCE-----------%
+\section{Experience}
+\resumeSubHeadingListStart
+
+    \resumeSubheading
+    {WEB3 Bharat}{October 2022}
+    {Hackathon}{Chennai}
+    \resumeItemListStart
+        \resumeItem{Participated in a workshop followed by a hackathon hosted by Web3 Bharat at SRM University}
+        \resumeItem{Focused on the theme “Demystifying Web 3.0,” exploring the principles and applications of Web 3.0 technologies}
+        \resumeItem{Engaged in hands-on activities and collaborative projects, enhancing understanding of decentralized technologies and blockchain.}
+        \resumeItem{Applied skills in smart contracts, blockchain development, and decentralized applications during the hackathon.}
+    \resumeItemListEnd
+    \resumeSubheading
+    {AI Technoz}{September 2023}
+    {Hackathon}{Chennai}
+    \resumeItemListStart
+        \resumeItem{Participated in a hackathon focused on Exploratory Data Analysis organized by SRM University} \resumeItem{Selected a healthcare-related problem statement among various provided domains.}
+        \resumeItem{Analyzed and visualized health data to uncover insights, demonstrating proficiency in data analysis techniques.}
+        \resumeItem{Utilized tools such as Python, Pandas, and Matplotlib for data processing and visualization.}
+    \resumeItemListEnd
+    \resumeSubheading
+    {Guvi-IITM}{January 2024}
+    {DanJR Hackathon}{Chennai}
+    \resumeItemListStart
+        \resumeItem{Designed a website homepage and order flow for DanJR's biryani shop using Figma.}
+        \resumeItem{Developed a user-friendly interface with a focus on visual appeal and seamless navigation for online ordering.}
+        \resumeItem{Created interactive prototypes to demonstrate user interactions and enhance the overall user experience.}
+    \resumeItemListEnd
+    \resumeSubheading
+    {ECell-IITM}{March 2024}
+    {Entrepreneurship}{Chennai}
+    \resumeItemListStart
+        \resumeItem{Participated in a three-day entrepreneurship event organized by the E-Cell at IIT Madras.}
+        \resumeItem{Served as a contingent leader representing students from SRM University.}
+        \resumeItem{Engaged in workshops, networking sessions, and pitch competitions, gaining insights into startup development and leadership.}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+%----------HEADING----------%
+\begin{tabularx}{\textwidth}{@{} X r @{}}
+    \begin{minipage}[t]{\textwidth}
+        \textbf{\Huge \scshape Keerthika Pujari} \\[0.5em]
+        \textbf{Adm. No.  }23f1001238 \quad \small\seticon{faPhone} 9959365935\\
+        \href{mailto:keerthikapujari25@gmail.com}{\seticon{faEnvelope} \underline{keerthikapujari25@gmail.com}} \quad
+        \href{https://www.linkedin.com/in/keerthika-pujari-404bb424b/}{\seticon{faLinkedin} \underline{linkedin.com/in/keerthika pujari}} \quad
+        \href{https://github.com/keethu12345}{\seticon{faGithub} \underline{github.com/keerthika pujari}}
+    \end{minipage} &
+    \begin{minipage}[t]{2cm}
+        \raisebox{-0.5\height}{\includegraphics[width=2.4cm]{IIT_Madras_Logo.png}}
+    \end{minipage}
+\end{tabularx}
+\section{Languages}
+ \begin{itemize}[leftmargin=0.15in, label={}] 
+    \small{\item{
+        \textbf{English}(Full professional proficiency)\\
+        \textbf{Hindi}(Full professional proficiency)\\
+        \textbf{Tamil}(Bilingual proficiency)\\
+        \textbf{Telugu}(Native proficiency)\\
+        \textbf{Sanskrit}(Elementary proficiency)\\
+        }}
+\end{itemize} 
+%-----------PROJECTS-----------%
+\section{Projects}
+\resumeSubHeadingListStart
+
+    \resumeProjectHeading
+    {\textbf{Project Name 1} $|$ \emph{React.js, Angular, Vue.js, Django, Flask, Ruby on Rails}}    {}
+    \resumeItemListStart
+        \resumeItem {Led the development of a microservices-based e-commerce platform using Node.js, resulting in a 40\% increase in daily transactions within the first quarter.}
+        \resumeItem{Designed and deployed a scalable RESTful API using Django and Django REST Framework, achieving a 30\% improvement in data retrieval speed.}
+        \resumeItem{Implemented a real-time chat feature using WebSocket and Socket.io, enhancing user engagement and reducing response time by 20\%.}
+    \resumeItemListEnd
+
+    \resumeProjectHeading
+    {\textbf{Project Name 2} $|$ \emph{Spring Boot, Express.js, TensorFlow, PyTorch, jQuery, Bootstrap}}{}
+    \resumeItemListStart
+        \resumeItem{Developed a data visualization dashboard using D3.js, providing stakeholders with real-time insights and improving decision-making processes.}
+        \resumeItem{Built a CI/CD pipeline using Jenkins and Docker, reducing deployment time by 40\% and ensuring consistent and reliable releases.}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+%-----------PROGRAMMING SKILLS-----------%
+\section{Technical Proficiency}
+    \begin{itemize}[leftmargin=0.15in, label={}]
+	\small{\item{
+		\textbf{Programming Languages}{: Python, C, C++, Java, JavaScript, HTML, SQL} \\
+		\textbf{Technologies}{: React.js, Angular, Vue.js, Django, Express.js, TensorFlow, PyTorch, jQuery, Bootstrap, Flask, , Node.js, , Android SDK, iOS SDK, Excel, Tableu} \\
+		\textbf{Concepts}{: Calculus, Probability and Statistics, Operating System, Virtual Memory, Cache Memory, Encryption, Decryption, Artificial Intelligence, Machine Learning, Neural Networks, API, Database Normalization, Intent Based Networking, Natural Language processing,Data Structures and Algorithms,Big Data Tools and techniques, Object oriented programming}
+	}}
+    \end{itemize}
+%-----------Social Engagements -----------%
+\section{Social Engagements}
+    \begin{itemize}[leftmargin=0.15in, label={}]
+	\small{\item{
+		\textbf{Contigent Leader}{: Of SRM University, representing twenty plus students at E-Summit IITM, a three day entrepreneurship event organised by E-Cell IITM} \\
+		\textbf{Volunteer}{: at Leonard Cheshire Disability, a home for differently abled Children and Elders, for a month.} \\
+        \textbf{Sports-Engagements}{: Kho-Kho(District level), Badminton(Beginner level), Chess(Intermediate level) }
+	}}
+    \end{itemize}
